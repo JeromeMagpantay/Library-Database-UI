@@ -1,0 +1,69 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.sub {
+  color: blue;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+body {
+  font-family: "Lucida Console", "Courier New", monospace;
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 208, 218, 1) 0%, rgba(24, 179, 218, 1) 100%, rgba(76, 215, 47, 1) 100%, rgba(85, 224, 17, 1) 100%);
+}
+
+
+th {
+  background: linear-gradient(90deg, rgba(41,201,42,1) 0%, rgba(190,231,56,1) 0%);
+
+}
+table {
+  background: rgb(0, 255, 195);
+  margin-left: auto;
+  margin-right: auto;
+}
+.mainform, form{
+  text-align: center;
+  padding-bottom:10px;
+}
+.button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+.buttonB{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  margin-top: 10px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */
+.button5 {background-color: #555555;} /* Black */
+.button6 {background-color: orange;}
+
+h4{
+  margin-left: auto;
+  margin-right: auto;
+  color: yellow;
+  padding-left: 20%;
+  padding-right: auto;
+}
